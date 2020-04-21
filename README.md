@@ -1,7 +1,7 @@
-TypeScript Express React Demo
+TypeScript Express Client Fetch Specified Fields Demo
 =======================
 
-使用express从后台提供使用了react的前端代码，在浏览器中显示
+Use typescript to define typing to allow client to fetch specified fields
 
 ```
 npm install
